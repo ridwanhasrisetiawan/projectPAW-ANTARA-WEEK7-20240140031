@@ -1,3 +1,13 @@
+<img width="957" height="1198" alt="Screenshot 2026-08-09 124218" src="https://github.com/user-attachments/assets/f8a043ee-1dd7-4804-864b-f60b26c0412e" />
+<img width="956" height="1198" alt="Screenshot 2026-08-09 124904" src="https://github.com/user-attachments/assets/83915b6a-d6d5-4cb1-8b2f-ce85f56ea98e" />
+
+
+
+
+
+
+
+
 # Express + SQLite API (MVC, Simple)
 
 REST API sederhana pola **MVC** (Model – Controller – Route). Backend murni, tanpa view, tanpa JWT.
